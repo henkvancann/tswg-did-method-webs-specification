@@ -6,6 +6,7 @@ on:
   push:
     branches:
       - main
+      - showchanges
 
 jobs:
   build-and-deploy-spec:
