@@ -2,6 +2,7 @@
 name: spec-up-render
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - main
